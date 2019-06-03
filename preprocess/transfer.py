@@ -4,7 +4,7 @@ import h5py as h5
 a = h5.File('NUSgtGlove.h5', 'r')
 b = h5.File('NUSGlove.h5', 'w')
 
-ids = np.load('NUS/id.npy')
+ids = np.load('id.npy')
 
 
 ak = a.keys()
