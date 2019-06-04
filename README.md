@@ -1,7 +1,7 @@
 # DRSH
 Deep Recurrent Scaling Hashing
 
-Code for paper Deep Hashing with Recurrent Scaling. Apperas in 3rd Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (APWeb-WAIM), 2019.
+Code for paper Supervised Hashing with Recurrent Scaling. Apperas in 3rd Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data (APWeb-WAIM), 2019.
 
 # Requirements
 * theano
