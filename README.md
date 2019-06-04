@@ -14,3 +14,6 @@ To run the training/test codes you should download the raw images of NUS-WIDE da
 The finetuned caffemodel for extracting attributes can be downloaded [here](https://drive.google.com/open?id=1oV489jhiiTspdPlv4D2zTTYHyxtZctC0 "With a Title"). The file that contains labels of attributes of COCO dataset for extracting NUS-WIDE images' attributes can be downloaded [here](https://drive.google.com/open?id=1aZezvxZmCIXogpTqyJbqMQrERVvZFnXD "With a Title"). The classified h5 file for finding positive and negative triplets can be downloaded [here](https://drive.google.com/open?id=1D78n_zBaDe494RgmsqkR7HIbPok8R_s8 "With a Title"). You also should download the 300-dimension GloVe vectors.
 
 After getting the files mentioned above, run the __NUSex_att.py__, __e_x.py__ and __transfer.py__ to get __NUSGlove.h5__. Run the __NUSex_fea.py__ to get __NUSF.h5__.
+
+# Models
+The models for generating hash codes in different code lengths can be downloaded [here](https://drive.google.com/open?id=1M0KUA0KWqim_0fvu5ZNX1yIUHB1u76Jp)
