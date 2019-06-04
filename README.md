@@ -18,7 +18,7 @@ After getting the files mentioned above, run the __NUSex_att.py__, __e_x.py__ an
 # Models
 The models for generating hash codes in different code lengths can be downloaded [here](https://drive.google.com/open?id=1M0KUA0KWqim_0fvu5ZNX1yIUHB1u76Jp)
 
-#Reference
+# Reference
 If you find this codebase useful in your research, please consider citing the following paper:
 
     @InProceedings{Fu2019DRSH,
