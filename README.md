@@ -17,3 +17,14 @@ After getting the files mentioned above, run the __NUSex_att.py__, __e_x.py__ an
 
 # Models
 The models for generating hash codes in different code lengths can be downloaded [here](https://drive.google.com/open?id=1M0KUA0KWqim_0fvu5ZNX1yIUHB1u76Jp)
+
+#Reference
+If you find this codebase useful in your research, please consider citing the following paper:
+
+    @InProceedings{Fu2019DRSH,
+      author = {Fu, Xiyao and Bin, Yi and Wang, Zheng and Wei, Qin and Chen, Si},
+      title = {Supervised Hashing with Recurrent Scaling},
+      booktitle = {The Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint Conference on Web and Big Data(APWeb-WAIM)},
+      month = {August},
+      year = {2019}
+    }
